@@ -8,14 +8,14 @@ Welcome to the _Order of Books_ project! A website developed during the Dev trai
 
 ## Index
 
-- [Objective](https://www.notion.so/README-md-167de41153e980039d34ef6a97e38f4a?pvs=21)
-- [Project Description](https://www.notion.so/README-md-167de41153e980039d34ef6a97e38f4a?pvs=21)
-- [Technologies Used](https://www.notion.so/README-md-167de41153e980039d34ef6a97e38f4a?pvs=21)
-- [Features](https://www.notion.so/README-md-167de41153e980039d34ef6a97e38f4a?pvs=21)
-- [Future Features](https://www.notion.so/README-md-167de41153e980039d34ef6a97e38f4a?pvs=21)
-- [Contributions](https://www.notion.so/README-md-167de41153e980039d34ef6a97e38f4a?pvs=21)
-- [Contact](https://www.notion.so/README-md-167de41153e980039d34ef6a97e38f4a?pvs=21)
-- [Notes](https://www.notion.so/README-md-167de41153e980039d34ef6a97e38f4a?pvs=21)
+- [Objective](#objective)
+- [Project Description](#project-description)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Future Features](#future-features)
+- [Contributions](#contributions)
+- [Contact](#contact)
+- [Notes](#notes)
 
 ### 🎯 Objective
 
