@@ -2,9 +2,10 @@
 
 Welcome to the _Order of Books_ project! A website developed during the Dev training event by Cod3r, where you can explore the most iconic book series and discover the correct reading order, along with affiliate links to make it easier to purchase the books on Amazon.
 
-## Project Screenshot
+## Live Demo
 
-![Screenshot](static/screenshot.png)
+You can check out the live version of the website here: [Order of Books](https://order-of-books-edc9mecwl-amals-projects-1e5b0fc5.vercel.app).
+
 
 ## Index
 
@@ -14,10 +15,11 @@ Welcome to the _Order of Books_ project! A website developed during the Dev trai
 - [Features](#features)
 - [Future Features](#future-features)
 - [Contributions](#contributions)
+- [Live Demo](#live-demo)
 - [Contact](#contact)
 - [Notes](#notes)
 
-### 🎯 Objective
+### Objective
 
 The goal of this project is to make it easier to organize and visualize the reading order of major book series, such as Harry Potter, The Lord of the Rings, and A Song of Ice and Fire. Additionally, it provides affiliate links for those who wish to purchase the books directly from Amazon.
 
@@ -27,7 +29,7 @@ _Order of Books_ is an interactive and responsive website that displays book ser
 
 The site also features an author section, currently listing authors from the Harry Potter series, and other planned sections such as characters, latest news, and communication channels (Facebook, Instagram, and YouTube).
 
-### 🛠️ Technologies Used
+### Technologies Used
 
 - **HTML5**: For content structure.
 - **JavaScript**: For application logic.
@@ -37,7 +39,7 @@ The site also features an author section, currently listing authors from the Har
 - **Svelte**: Framework for building the user interface.
 - **Vite**: For a fast and efficient build process with ES module support.
 
-### ⚙️ Features
+### Features
 
 - Display of the reading order of the Harry Potter, The Lord of the Rings, and A Song of Ice and Fire series.
 - Affiliate links for purchasing books on Amazon.
@@ -45,7 +47,7 @@ The site also features an author section, currently listing authors from the Har
 - Intuitive interface and responsive design.
 - Data stored in JSON format for easier updates and maintenance.
 
-### 🌟 Future Features
+### Future Features
 
 - Add new popular book series.
 - Include book reviews and ratings.
@@ -53,14 +55,18 @@ The site also features an author section, currently listing authors from the Har
 - Complete the character, latest news, and communication channels sections.
 - Possibility to reuse the code to organize other types of collections, such as movies or games.
 
-### 🤝 Contributions
+### Contributions
 
 Contributions are welcome! To contribute:
 
 - **Open an Issue**: Report a bug or suggest an improvement.
 - **Create a Pull Request**: Make changes to the code and submit a request for review.
 
-### 📧 Contact
+### Live Demo
+
+You can check out the live demo of the project [here](https://order-of-books.vercel.app).
+
+### Contact
 
 For questions or feedback, reach out:
 
