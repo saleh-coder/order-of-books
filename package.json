@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "latest",
+    "@sveltejs/adapter-vercel": "^5.5.2",
     "@sveltejs/kit": "latest",
     "@sveltejs/vite-plugin-svelte": "latest",
     "autoprefixer": "^10.4.20",
@@ -28,5 +29,8 @@
     "@tailwindcss/typography": "^0.5.15",
     "devalue": "^5.1.1",
     "marked": "^15.0.4"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
