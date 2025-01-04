@@ -6,7 +6,11 @@
 <a 
    href="/authors/{author.id}" 
    class="flex flex-col rounded-md relative overflow-hidden border border-zinc-800"> 
-  <img src={author.image} alt="Author's image" class="h-96 object-cover">
+  <img 
+    src={author.image} 
+    alt="Photo of {author.name}" 
+    class="h-96 object-cover"
+  >
   <div 
     class="absolute bottom-0 left-0 right-0 p-2 bg-zinc-800 bg-opacity-70"
   >
