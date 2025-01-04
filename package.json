@@ -1,0 +1,32 @@
+{
+  "name": "order-of-books",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+    "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "latest",
+    "@sveltejs/kit": "latest",
+    "@sveltejs/vite-plugin-svelte": "latest",
+    "autoprefixer": "^10.4.20",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "svelte": "latest",
+    "svelte-check": "latest",
+    "tailwindcss": "^3.4.9",
+    "typescript": "^5.0.0",
+    "vite": "^6.0.6"
+  },
+  "dependencies": {
+    "@sveltejs/adapter-netlify": "latest",
+    "@tabler/icons-svelte": "^3.26.0",
+    "@tailwindcss/typography": "^0.5.15",
+    "devalue": "^5.1.1",
+    "marked": "^15.0.4"
+  }
+}
