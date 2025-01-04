@@ -1,11 +1,13 @@
 # Order of Books
 
-Welcome to the _Order of Books_ project! A website developed during the Dev training event by Cod3r, where you can explore the most iconic book series and discover the correct reading order, along with affiliate links to make it easier to purchase the books on Amazon.
+Welcome to the _Order of Books_ project! A website developed during a Dev training event by Cod3r, designed to help users explore the most iconic book series, discover the correct reading order, and easily purchase books via affiliate links to Amazon.
 
 ## Live Demo
 
-You can check out the live version of the website here: [Order of Books](https://order-of-books-edc9mecwl-amals-projects-1e5b0fc5.vercel.app).
+You can check out the live version of the website here: [Order of Books - After](https://order-of-books-edc9mecwl-amals-projects-1e5b0fc5.vercel.app).
 
+### Before:
+You can also see the previous version of the website here: [Order of Books - Before](https://www.orderofbooks.com/).
 
 ## Index
 
@@ -29,14 +31,21 @@ _Order of Books_ is an interactive and responsive website that displays book ser
 
 The site also features an author section, currently listing authors from the Harry Potter series, and other planned sections such as characters, latest news, and communication channels (Facebook, Instagram, and YouTube).
 
+#### Major Improvements from "Before" to "After":
+- Redesigned and more user-friendly interface.
+- Improved responsiveness across devices, offering a better mobile experience.
+- A cleaner layout, making it easier to navigate through book series and find detailed information about each book.
+- Enhanced affiliate link integration to facilitate easier purchasing directly from Amazon.
+- The addition of a more dynamic and visually appealing author section.
+
 ### Technologies Used
 
 - **HTML5**: For content structure.
 - **JavaScript**: For application logic.
-- **Node.js**: For a simple backend.
+- **Node.js**: For a simple backend (e.g., organizing books, managing data).
 - **JSON**: For data storage and organization of books.
 - **TailwindCSS**: For efficient and responsive styling.
-- **Svelte**: Framework for building the user interface.
+- **Svelte**: Framework for building the user interface, providing a reactive and fast experience.
 - **Vite**: For a fast and efficient build process with ES module support.
 
 ### Features
