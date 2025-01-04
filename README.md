@@ -62,10 +62,6 @@ Contributions are welcome! To contribute:
 - **Open an Issue**: Report a bug or suggest an improvement.
 - **Create a Pull Request**: Make changes to the code and submit a request for review.
 
-### Live Demo
-
-You can check out the live demo of the project [here](https://order-of-books.vercel.app).
-
 ### Contact
 
 For questions or feedback, reach out:
