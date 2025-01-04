@@ -40,13 +40,14 @@ The site also features an author section, currently listing authors from the Har
 
 ### Technologies Used
 
-- **HTML5**: For content structure.
-- **JavaScript**: For application logic.
-- **Node.js**: For a simple backend (e.g., organizing books, managing data).
-- **JSON**: For data storage and organization of books.
-- **TailwindCSS**: For efficient and responsive styling.
-- **Svelte**: Framework for building the user interface, providing a reactive and fast experience.
-- **Vite**: For a fast and efficient build process with ES module support.
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) For content structure.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) For application logic.
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) For a simple backend (e.g., organizing books, managing data).
+- ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) For data storage and organization of books.
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) For efficient and responsive styling.
+- ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) Framework for building the user interface, providing a reactive and fast experience.
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) For a fast and efficient build process with ES module support.
+
 
 ### Features
 
